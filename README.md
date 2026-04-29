@@ -1,0 +1,2 @@
+# AI-Powered-HR-Data-Warehouse-Workforce-Intelligence-Platform
+Built an automated, end-to-end HR intelligence platform designed to maximize workforce retention and optimize strategic planning by integrating Python ETL, SQL Star Schemas, Power BI, and GenAI copilots into a unified interactive view. This solution empowers executives to predict attrition, query live data, and automate policy support.
